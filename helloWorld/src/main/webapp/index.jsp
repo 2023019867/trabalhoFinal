@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Hello World!</title>
+<title>Goodbye World!</title>
 </head>
 <body>
-	<h1>Hello!</h1>
+	<h1>Goodbye!</h1>
 </body>
 </html>
